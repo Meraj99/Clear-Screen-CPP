@@ -1,5 +1,5 @@
-#include<windows.h>
-#include"CLS.h"
+#include <windows.h>
+#include "CLS.h"
 
 void cls()
 {
